@@ -1,0 +1,1 @@
+This application demonstrates student registration system using mutlitherading, object pool pattern & singleton pattern.
