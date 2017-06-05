@@ -1,0 +1,1 @@
+This application demonstrates simple course registration system for students according to there course preferences.
